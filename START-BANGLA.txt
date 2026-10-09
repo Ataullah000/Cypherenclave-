@@ -1,0 +1,41 @@
+========================================
+  Cypherenclave v1.0 — শুরু করার গাইড
+========================================
+
+১) Node.js ইনস্টল করো (একবারই লাগবে)
+   https://nodejs.org  →  LTS বাটন → Install
+   ইনস্টল শেষে কম্পিউটার রিস্টার্ট করতে পারো
+
+২) এই ফোল্ডার খোলো (app ফোল্ডার)
+
+৩) ফোল্ডারের ভিতরে টার্মিনাল খোলো
+   Windows: ফোল্ডারে Shift + Right-click → "Open in Terminal"
+   Mac: ফোল্ডারে Right-click → "New Terminal at Folder"
+
+৪) টার্মিনালে লিখো (কপি-পেস্ট করো):
+
+   npm install
+
+   শেষ হলে:
+
+   npm run dev
+
+৫) ব্রাউজারে যাও:
+   http://localhost:3000
+
+========================================
+  কী কী আছে
+========================================
+• Landing page — Waitlist, Pricing, Features
+• Secure Workspace — AI Chat (বন্ধুসুলভ)
+• Private Lock — hover করে decrypt
+• Command Palette — Ctrl+K বা Cmd+K
+• Onboarding — প্রথমবারের ট্যুর
+• Mobile bottom navigation
+
+AI চ্যাট: লেখো, ব্যাখ্যা চাও, কোড, ইমেইল —
+স্বাভাবিকভাবে সাহায্য করবে। ভুল থাকলে সংশোধন করবে।
+
+Deploy (লাইভ সাইট): README.md দেখো (Vercel সবচেয়ে সহজ)
+
+© 2026 Cypherenclave

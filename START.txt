@@ -1,0 +1,12 @@
+Cypherenclave v1.0 — Quick Start
+================================
+
+1. Install Node.js LTS from https://nodejs.org
+2. Open a terminal inside this "app" folder
+3. Run:
+     npm install
+     npm run dev
+4. Open http://localhost:3000
+
+See START-BANGLA.txt for Bangla instructions.
+See README.md for deploy (Vercel / Netlify).
